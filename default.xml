@@ -6,6 +6,8 @@
            review="https://android-review.googlesource.com/" />
   <remote  name="gl"
            fetch="ssh://git@github.com/Kernel-GL-HRK/" />
+  <remote  name="os"
+           fetch="ssh://git@github.com/Oksana-Shevchenko/" />
   <default revision="refs/tags/android-9.0.0_r35"
            remote="aosp"
            sync-j="4" />
